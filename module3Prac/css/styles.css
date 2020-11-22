@@ -1,0 +1,21 @@
+body{
+    font-size: 15px;
+    color: #ffff;
+    background-color: #61122f;
+}
+
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+.navbar{
+    height: 120px;
+}
+
+#logo-img {
+    background: url("../images/b.JPG.jpg") no-repeat;
+    width:150px;
+    height: 150px;
+    margin:0px 0 0 0;
+}
